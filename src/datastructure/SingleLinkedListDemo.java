@@ -4,11 +4,11 @@ package datastructure;
 import java.util.Stack;
 
 /**
- * 链表练习
+ * 单向链表练习
  * 增插删改查排
  * Created by qjq on 2020/1/22 10:57
  */
-public class LinkedListDemo {
+public class SingleLinkedListDemo {
     public static void main(String[] args) {
         LinkedList linkedList = new LinkedList();
         linkedList.addNode(new Node(1));
